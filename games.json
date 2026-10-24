@@ -1,8 +1,28 @@
 [
+   {
+    "title": "Catapult Trip",
+    "url": "https://www.gamepix.com/play/catapult-trip",
+    "thumbnail": "https://img.gamepix.com/games/catapult-trip/cover/catapult-trip.png?w=320&ar=4:3"
+  },
   {
-    "title": "Bouncemasters",
-    "url": "https://play.famobi.com/bouncemasters",
-    "thumbnail": "https://ik.imagekit.io/sjyfpsp1n/marketing/featuredGames/bounce-masters/figure.png"
+    "title": "Pull Pins",
+    "url": "https://play.famobi.com/pull-pins",
+    "thumbnail": "https://ik.imagekit.io/sjyfpsp1n/marketing/featuredGames/pull-pins/figure.png"
+  },
+  {
+    "title": "Slime Road",
+    "url": "https://play.famobi.com/slime-road",
+    "thumbnail": "https://ik.imagekit.io/sjyfpsp1n/marketing/featuredGames/slime-road/figure.png"
+  },
+ {
+    "title": "Alien Attack",
+    "url": "https://play.famobi.com/alien-attack",
+    "thumbnail": "https://ik.imagekit.io/sjyfpsp1n/marketing/featuredGames/alien-attack/figure.png"
+  },
+  {
+    "title": "Western Sniper",
+    "url": "https://play.famobi.com/western-sniper",
+    "thumbnail": "https://ik.imagekit.io/sjyfpsp1n/marketing/featuredGames/western-sniper/logo.png"
   },
 
   {
